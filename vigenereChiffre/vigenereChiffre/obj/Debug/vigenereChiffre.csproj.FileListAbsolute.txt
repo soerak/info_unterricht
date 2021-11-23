@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\bin\Debug\vigenereChiffre.exe.config
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\bin\Debug\vigenereChiffre.exe
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\bin\Debug\vigenereChiffre.pdb
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.Form1.resources
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.exe
+C:\Users\bhenrich\source\repos\vigenereChiffre\vigenereChiffre\obj\Debug\vigenereChiffre.pdb

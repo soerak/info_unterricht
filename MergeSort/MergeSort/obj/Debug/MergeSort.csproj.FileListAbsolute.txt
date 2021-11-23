@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.Form1.resources
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\bhenrich\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

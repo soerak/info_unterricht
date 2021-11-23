@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\bin\Debug\LoginSupergeil.exe.config
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\bin\Debug\LoginSupergeil.exe
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\bin\Debug\LoginSupergeil.pdb
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.Form1.resources
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.exe
+C:\Users\bhenrich\source\repos\LoginSupergeil\LoginSupergeil\obj\Debug\LoginSupergeil.pdb
