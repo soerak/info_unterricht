@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe.config
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\bin\Debug\bubbleSort.pdb
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.Form1.resources
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.exe
+C:\Users\bhenrich\source\repos\bubbleSort\bubbleSort\obj\Debug\bubbleSort.pdb
