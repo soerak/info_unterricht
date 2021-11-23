@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\GTA6\GTA6\bin\Release\GTA6.exe.config
+C:\Users\bhenrich\source\repos\GTA6\GTA6\bin\Release\GTA6.exe
+C:\Users\bhenrich\source\repos\GTA6\GTA6\bin\Release\GTA6.pdb
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.Form1.resources
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.exe
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.pdb
+C:\Users\bhenrich\source\repos\GTA6\GTA6\obj\Release\GTA6.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.Form1.resources
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\bhenrich\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
