@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.Form1.resources
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\bin\Debug\DerZugMussSortiertWerden.exe.config
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\bin\Debug\DerZugMussSortiertWerden.exe
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\bin\Debug\DerZugMussSortiertWerden.pdb
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.exe
+C:\Users\bhenrich\source\repos\DerZugMussSortiertWerden\DerZugMussSortiertWerden\obj\Debug\DerZugMussSortiertWerden.pdb
