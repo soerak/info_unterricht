@@ -5,7 +5,7 @@
 ## DerZugMussSortiertWerden
 ### TODO
 
-- Den algorythmus inplace gestalten
-  - Kein neues Array erstellen
+- Den Algoritmus _inplace_ gestalten
+  - Kein neues Array erstellen [!!!]
 
 ---
