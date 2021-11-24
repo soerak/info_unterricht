@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.Form1.resources
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\bin\Debug\StreamReader_Experiment.exe.config
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\bin\Debug\StreamReader_Experiment.exe
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\bin\Debug\StreamReader_Experiment.pdb
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.exe
+C:\Users\bhenrich\source\repos\StreamReader_Experiment\StreamReader_Experiment\obj\Debug\StreamReader_Experiment.pdb
