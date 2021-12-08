@@ -1,0 +1,10 @@
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\bin\Debug\ClickOfDuty.exe.config
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\bin\Debug\ClickOfDuty.exe
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\bin\Debug\ClickOfDuty.pdb
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.csprojAssemblyReference.cache
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.Form1.resources
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.exe
+C:\Users\bhenrich\source\repos\ClickOfDuty\ClickOfDuty\obj\Debug\ClickOfDuty.pdb
