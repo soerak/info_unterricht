@@ -1,0 +1,17 @@
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\derBalkenSteigt.exe
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\derBalkenSteigt.deps.json
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\derBalkenSteigt.runtimeconfig.json
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\derBalkenSteigt.dll
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\ref\derBalkenSteigt.dll
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\bin\Debug\net6.0-windows\derBalkenSteigt.pdb
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.csproj.AssemblyReference.cache
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.Form1.resources
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.AssemblyInfoInputs.cache
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.AssemblyInfo.cs
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.dll
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\ref\derBalkenSteigt.dll
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.pdb
+C:\Users\bhenrich\source\repos\derBalkenSteigt\derBalkenSteigt\obj\Debug\net6.0-windows\derBalkenSteigt.genruntimeconfig.cache

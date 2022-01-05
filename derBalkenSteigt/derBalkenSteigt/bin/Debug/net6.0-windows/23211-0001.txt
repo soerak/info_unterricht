@@ -1,0 +1,10 @@
+Lesotho;72,4
+Guyana;40,3
+Eswatini;29,4
+Südkorea;28,6
+Kiribati;28,3
+Mikronesien;28,2
+Litauen;26,1
+Suriname;25,4
+Russland;25,1
+Südafrika;23,5 
