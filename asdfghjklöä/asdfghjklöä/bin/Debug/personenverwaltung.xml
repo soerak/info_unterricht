@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<id>1</id>
+		<name>John Cena</name>
+		<occupation>Wrestler</occupation>
+	</user>
+	<user>
+		<id>2</id>
+		<name>Joe mama</name>
+		<occupation>Pleasure Commission Worker</occupation>
+	</user>
+		<user>
+		<id>3</id>
+		<name>Jacob Seeliger</name>
+		<occupation>Facebook Software Enineer</occupation>
+	</user>
+		<user>
+		<id>4</id>
+		<name>Herr Koeppe</name>
+		<occupation>Datenbankenmanager</occupation>
+	</user>
+</users>

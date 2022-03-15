@@ -1,0 +1,11 @@
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\bin\Debug\asdfghjklöä.exe.config
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\bin\Debug\asdfghjklöä.exe
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\bin\Debug\asdfghjklöä.pdb
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.csproj.AssemblyReference.cache
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.Form1.resources
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.Properties.Resources.resources
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.csproj.GenerateResource.cache
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.exe
+C:\Users\bhenrich\source\repos\asdfghjklöä\asdfghjklöä\obj\Debug\asdfghjklöä.pdb
