@@ -1,0 +1,11 @@
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\bin\Debug\Sort that Bih.exe.config
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\bin\Debug\Sort that Bih.exe
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\bin\Debug\Sort that Bih.pdb
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.csproj.AssemblyReference.cache
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort_that_Bih.Form1.resources
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort_that_Bih.Properties.Resources.resources
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.csproj.GenerateResource.cache
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.csproj.CoreCompileInputs.cache
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.exe
+C:\Users\bhenrich\Desktop\LEK\Sort that Bih\Sort that Bih\obj\Debug\Sort that Bih.pdb
